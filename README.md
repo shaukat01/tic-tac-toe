@@ -6,7 +6,7 @@ The goal of the game is for players to position their marks so that they make a 
 Netlify
 
 # Visit & Short URL :
- https://ms-tic-tac-toe.netlify.app/
+https://ms-tic-tac-toe.netlify.app/
 
 # Demo :
 
